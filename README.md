@@ -1,1 +1,1 @@
-# pdivya-mca-Assignment5_6_7_ML-Algorithm
+This repository contains linear regression learning assignment. Along with code, data files also uploaded.
